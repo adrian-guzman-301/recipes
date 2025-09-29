@@ -1,0 +1,4 @@
+name: adrian
+race: human
+goals: deeper learning in humanities; immerse myself in indigenous mexico; get better at standup; become goated swe
+
